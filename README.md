@@ -6,3 +6,7 @@ curl -sSL https://raw.githubusercontent.com/a9086/myjiaoben/main/portxiugai.sh |
 ```
 curl -sSL https://raw.githubusercontent.com/a9086/myjiaoben/main/xrayr.sh | sudo bash
 ```
+一键x-ui<br>
+```
+curl -sSL https://raw.githubusercontent.com/a9086/myjiaoben/main/x-ui-zd.sh | sudo bash
+```
